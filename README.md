@@ -1,3 +1,6 @@
+pip freeze >  packegas.txt
+pip install -r  packages.txt  
+
 # scrapy使用指南
 ## 1.虚拟环境配置
 ### 安装虚拟环境相关的包
